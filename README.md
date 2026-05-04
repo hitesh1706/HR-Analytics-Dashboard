@@ -31,7 +31,6 @@ Organizations often struggle to identify the reasons behind employee attrition. 
   ## Dashboard Preview
 ![Dashboard](screenshots/hr_dashboard.png)
 
-
 ## 💡 Business Insights
 - R&D department showed the highest attrition.
 - Employees aged 25–34 had higher attrition.
