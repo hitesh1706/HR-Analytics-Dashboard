@@ -29,7 +29,7 @@ Organizations often struggle to identify the reasons behind employee attrition. 
 
 
   ## Dashboard Preview
-![Dashboard](screenshots/hr_dashboard.png)
+![Dashboard](hr_dashboard.png)
 
 ## 💡 Business Insights
 - R&D department showed the highest attrition.
